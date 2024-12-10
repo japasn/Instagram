@@ -1,2 +1,2 @@
 # Instagram
-A antiga logo do instagram
+A antigo design do instagram
